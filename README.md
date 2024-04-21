@@ -17,9 +17,11 @@ This program calculates and prints the distance between the points (10, 6) and (
 end program 
 ### PROGRAM:
 ```
+'''
 Distance between points
 Developed by:SARWESHVARAN.A
 Register number:212223231098
+'''
 import math
 list1=[4,2]
 list2=[10,6]
@@ -27,7 +29,7 @@ distance=math.sqrt((list2[0] - list1[0])**2+(list2[1]-list1[1])**2)
 print(round(distance,2))
 ```  
 ### OUTPUT:
-![Screenshot 2024-04-15 134239](https://github.com/SarweshvaranA/DISTANCE-BETWEEN-TWO-POINTS/assets/146930981/42c08f53-5d69-4acc-b50b-fbee8acc2342)
+![Distance between two points](Distance.png)
 
 ### RESULT:
 Then, the program is successfully executed.
